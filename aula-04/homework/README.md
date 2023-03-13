@@ -1,5 +1,1 @@
-# Instructions - Lesson 4 - Homework
-
-- Crie uma página que complete o endereço baseado no cep digitado
-- Para tal, será necessário utilizar o fetch
-- Depois utilize as API's de storage do navegador para salvar esses dados
+Demonstração de solução para exercício da 4ª aula do curso de Programação Back-End da Awari. Saiba mais na Plataforma Awari.
